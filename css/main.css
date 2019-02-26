@@ -1,2 +1,25 @@
-  {
+/*LOGO/HEADER SECTION*/
+.logo{
+	width: 20px;
+	height: 20px;
+	border-style: solid;
+	border-width: 1px;
+}
+.top{
+	display: inline-block;
+	margin-top: 30px;
+}
+.bottom{
+	display: inline-block;
+}
+#squareLogo{
+	margin-left: 100px;
+}
+#squareLogo, #logoHeader{
+	display: inline-block;
+}
+
+/*BACKGROUND IMAGE DIV*/
+.bgimg{
+	background-image: url("img/keyImage.jpg");
 }
