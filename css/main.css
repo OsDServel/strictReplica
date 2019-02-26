@@ -20,6 +20,12 @@
 }
 
 /*BACKGROUND IMAGE DIV*/
-.bgimg{
-	background-image: url("img/keyImage.jpg");
+#bgImg{
+	background-image: url("../img/keyImage.jpg");
+	background-color: forestgreen;
+	height: 683px;
+	width: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+
 }
