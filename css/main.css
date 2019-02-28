@@ -29,3 +29,10 @@
 	background-position: center;
 
 }
+
+
+/*3 blueBox section*/
+div.blueBox{
+	display: inline-block;
+	width: 30%;
+}
