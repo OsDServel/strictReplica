@@ -37,6 +37,6 @@ div.blueBox{
 	width: 30%;
 }
 
-/*.halfBox1, .halfBox2{
+.blueBox .halfBox1, .halfBox2{
 	display: inline-block;
-}*/
+}
